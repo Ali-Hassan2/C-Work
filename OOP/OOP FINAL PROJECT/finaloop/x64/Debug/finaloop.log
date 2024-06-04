@@ -1,0 +1,5 @@
+﻿  finaloop.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\finaloop\finaloop.cpp(799,1): error C2059: syntax error: '}'
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\finaloop\finaloop.cpp(799,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\finaloop\finaloop.cpp(802,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\finaloop\finaloop.cpp(802,1): error C2447: '{': missing function header (old-style formal list?)

@@ -1,0 +1,4 @@
+﻿  Assignment no 2.cpp.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP\Assignment no 2.cpp\Assignment no 2.cpp.cpp(684,15): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\aliha\OneDrive\Desktop\OOP\Assignment no 2.cpp\Assignment no 2.cpp.cpp(684,28): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+LINK : fatal error LNK1168: cannot open C:\Users\aliha\OneDrive\Desktop\OOP\Assignment no 2.cpp\x64\Debug\Assignment no 2.cpp.exe for writing

@@ -1,0 +1,26 @@
+﻿  estar.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(189,13): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(190,26): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(190,28): error C2440: 'initializing': cannot convert from 'std::string' to 'int'
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(190,28): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(191,22): error C2297: '>>': not valid as right operand has type 'double'
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(200,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(203,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(206,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(500,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(513,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(517,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(778,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(781,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1029,13): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1030,26): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1030,28): error C2440: 'initializing': cannot convert from 'std::string' to 'int'
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1030,28): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1031,22): error C2297: '>>': not valid as right operand has type 'double'
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1338,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1351,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1355,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1612,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1615,9): error C3861: 'getline': identifier not found
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1894,5): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\aliha\OneDrive\Desktop\OOP\estar\estar.cpp(1899,5): error C3861: 'display1': identifier not found

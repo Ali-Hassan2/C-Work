@@ -1,0 +1,8 @@
+﻿  systemestar.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\systemestar\systemestar.cpp(342,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\systemestar\systemestar.cpp(839,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\systemestar\systemestar.cpp(1170,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\systemestar\systemestar.cpp(1489,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\systemestar\systemestar.cpp(1840,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\systemestar\systemestar.cpp(2158,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  systemestar.vcxproj -> C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\systemestar\x64\Debug\systemestar.exe

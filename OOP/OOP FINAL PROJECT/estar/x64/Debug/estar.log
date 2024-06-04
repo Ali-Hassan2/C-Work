@@ -1,0 +1,5 @@
+﻿  estar.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\estar\estar.cpp(335,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\estar\estar.cpp(637,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\estar\estar.cpp(808,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\estar\x64\Debug\estar.exe for writing

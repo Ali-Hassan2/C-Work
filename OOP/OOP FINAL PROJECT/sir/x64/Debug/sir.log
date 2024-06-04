@@ -1,0 +1,6 @@
+﻿  sir.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\sir\sir.cpp(1161,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\sir\sir.cpp(1480,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\sir\sir.cpp(1831,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\sir\sir.cpp(2149,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  sir.vcxproj -> C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\sir\x64\Debug\sir.exe

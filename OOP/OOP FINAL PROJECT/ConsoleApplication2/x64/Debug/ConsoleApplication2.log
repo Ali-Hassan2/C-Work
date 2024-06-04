@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\ConsoleApplication2\ConsoleApplication2.cpp(335,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\ConsoleApplication2\ConsoleApplication2.cpp(637,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\ConsoleApplication2\ConsoleApplication2.cpp(808,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\aliha\OneDrive\Desktop\OOP FINAL PROJECT\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

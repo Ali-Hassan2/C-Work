@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP\ConsoleApplication1\ConsoleApplication1.cpp(1130): error C4700: uninitialized local variable 'opp' used

@@ -1,0 +1,4 @@
+﻿  Beautifing mode ers.cpp
+C:\Users\aliha\OneDrive\Desktop\OOP\Assignment no 2.cpp\Beautifing mode ers\Beautifing mode ers.cpp(684,15): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\aliha\OneDrive\Desktop\OOP\Assignment no 2.cpp\Beautifing mode ers\Beautifing mode ers.cpp(684,28): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  Beautifing mode ers.vcxproj -> C:\Users\aliha\OneDrive\Desktop\OOP\Assignment no 2.cpp\Beautifing mode ers\x64\Debug\Beautifing mode ers.exe
