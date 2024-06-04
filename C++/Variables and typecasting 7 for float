@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    //Double is that if for example float can hold a value of 79869878 etc so if we add double
+    // then its amout become twice so thats why double is used
+    // As 34.4 is a double if i want to pass it as float value then i will use 
+    // as 34.4f.So use it as float = 67.9f;
+    //And we can also write as long double=45.5l or long double=45.98L.
+    float d = 34.8f;
+    long double e = 36.9;
+    cout<<"The size of 34.8 is :"<<sizeof(34.8)<<endl;
+    cout<<"The size of 34.8f is :"<<sizeof(34.8f)<<endl;
+    cout<<"The size of 34.8F is :"<<sizeof(34.8F)<<endl;
+    cout<<"The size of 34.8l is :"<<sizeof(34.8l)<<endl;
+    cout<<"The size of 34.8L is :"<<sizeof(34.8L)<<endl;
+
+    //so we can also use Small and Capital F and L as our choice to pass as float or 
+    // long double
+    //so here we will check the values of float and long double.
+    // in float data type any decimal data can be stored
+    //so if we run as 34.8 it takes as a double value and answer in double 8 so if we
+    //write as 34.8f so it will give 4 a single value.
+  
+   cout<<"The value of d is :"<<d<<endl<<"The value of e is :"<<e;  
+
+
+   return 0;
+}

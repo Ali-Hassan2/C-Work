@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	char string1[3] = {'a','b','c'};
+	
+	cout<<string1[0]<<endl;
+	cout<<string1[1]<<endl;
+	cout<<string1[2]<<endl;
+	
+	
+	
+	return(0);
+}

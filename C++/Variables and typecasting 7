@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+//This is the global variable and if we not use :: then it will not have any type of work.
+
+int c = 67;
+int main()
+{
+int a,b,c;
+cout<<"Enter the value of a:"<<endl;
+cin>>a;
+cout<<"Enter the value of b:"<<endl;
+cin>>b;
+  c=a+b;
+cout<<"The sum is="<<c<<endl;
+// If i want to show my global variable value so then i will use ::
+// So by doing this we can use our global variable value for program
+cout<<"The value of global is = "<<::c;
+return 0;
+    
+}
